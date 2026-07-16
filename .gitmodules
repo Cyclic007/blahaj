@@ -1,0 +1,3 @@
+[submodule "blahaj_choir"]
+	path = blahaj_choir
+	url = git@github.com:autowattage/blahaj_choir.git
